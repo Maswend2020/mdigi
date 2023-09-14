@@ -1,6 +1,6 @@
 {
     "name": "mdigi",
-    "description": "PHP Library Digiflazz",
+    "description": "Library Digiflazz",
     "type": "library",
     "require": {
         "guzzlehttp/guzzle": "^7.8.0",
