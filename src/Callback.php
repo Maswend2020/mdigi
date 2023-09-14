@@ -9,7 +9,7 @@
  * @link     https://api.digiflazz.com/v1
  */
 
-namespace Gonon\Digiflazz;
+namespace Mdigi;
 
 use Symfony\Component\HttpFoundation\Request;
 
