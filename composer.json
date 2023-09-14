@@ -1,0 +1,22 @@
+{
+    "name": "maswend2020/digiflazz",
+    "description": "Unofficial PHP Library Digiflazz",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8.0",
+        "symfony/http-foundation": "5.4.28"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Gonon\\Digiflazz\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "maswend",
+            "email": "maswend.2020@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable"
+}
